@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "programmers summer 2019 todolist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUJIBKIM/TodoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUJIBKIM/TodoList/issues"
+  },
+  "homepage": "https://github.com/MUJIBKIM/TodoList#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
